@@ -118,7 +118,7 @@ procedure TZipArc.Header;
 begin
   WriteLn;
   WriteLn('ZipArc™ Archive Utilty');
-  WriteLn('Copyright © 2021 tinyBigGAMES™');
+  WriteLn('Copyright © 2021-2022 tinyBigGAMES™');
   WriteLn('All Rights Reserved.');
 end;
 
