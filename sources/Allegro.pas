@@ -24,7 +24,7 @@
    and ready for use. You will have direct access to all the above
    libraries.
 
- Copyright © 2021 tinyBigGAMES™ LLC
+ Copyright © 2021-2022 tinyBigGAMES™ LLC
  All Rights Reserved.
 
  Website: https://tinybiggames.com
