@@ -26,6 +26,7 @@ You simply add `Allegro` to your uses section and everything will be linked in y
 - <a href="https://liballeg.org/" target="_blank">Allegro website</a>
 - <a href="https://liballeg.org/a5docs/trunk/" target="_blank">Allegro reference manual</a>
 - <a href="https://github.com/liballeg/allegro_wiki/wiki/Allegro-Vivace" target="_blank">Allegro tutorials</a>
+- <a href="https://www.allegro.cc/forums/" target="_blank">Allegro Forums</a>
 - <a href="https://www.youtube.com/results?search_query=allegro+game+development&sp=CAI%253D" target="_blank">Allegro on YouTube</a>
 
 
